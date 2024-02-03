@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "username": "ago",
+      "email": "ago@gmail",
+      "id": "4d54"
+    },
+    {
+      "username": "aria123",
+      "email": "aria@gmail.com",
+      "id": "ab0e"
+    },
+    {
+      "username": "artak123",
+      "email": "artak@gmail.com",
+      "id": "507d"
+    },
+    {
+      "id": "b8d1",
+      "username": "ani123",
+      "email": "ani@gmail.com"
+    },
+    {
+      "id": "8590",
+      "username": "armen244",
+      "email": "armen@gmail.com"
+    },
+    {
+      "id": "b547",
+      "username": "maria124",
+      "email": "maria@gmail.com"
+    }
+  ]
+}

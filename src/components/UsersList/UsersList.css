@@ -1,0 +1,28 @@
+.users-list {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .user {
+    background-color: #f8f9fa;
+    border: 1px solid #dee2e6;
+    border-radius: 0.25rem;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    width: 500px;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .user:hover {
+    transform: scale(1.1);
+ }
+
+ .btn-delete {
+  width: 120px;
+  background-color: #007BFF;
+ }
+ .btn-delete:hover {
+  background-color: #063465;
+ }
